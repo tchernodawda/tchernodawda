@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile+!;AI+%26+Data+Engineering+Student+%40+EPT;Always+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile+!;Always+learning+new+things)](https://git.io/typing-svg)
 
 </div>
 
@@ -20,7 +20,7 @@
 
 <!-- bio -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiernodaoudaly&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117" width="38%" />
+<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiernodaoudaly&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117&cache_seconds=86400" width="38%" />
 
 **Hi, I am Tcherno**
 
@@ -39,7 +39,7 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 | Domaine | Skills |
 |--------|--------|
-| **Artificial Intelligence** | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-161b22?style=flat&logoColor=8B949E) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-161b22?style=flat&logoColor=8B949E) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-161b22?style=flat&logoColor=8B949E) ![NLP](https://img.shields.io/badge/NLP-161b22?style=flat&logoColor=8B949E) ![Transformers](https://img.shields.io/badge/Transformers-161b22?style=flat&logoColor=8B949E) ![LLMs](https://img.shields.io/badge/LLMs-161b22?style=flat&logoColor=8B949E) ![Generative AI](https://img.shields.io/badge/Generative%20AI-161b22?style=flat&logoColor=8B949E) ![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-161b22?style=flat&logoColor=8B949E) ![RAG](https://img.shields.io/badge/RAG-161b22?style=flat&logoColor=8B949E) |
+| **Artificial Intelligence** | ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-161b22?style=flat&logoColor=8B949E) ![Deep Learning](https://img.shields.io/badge/Deep%20Learning-161b22?style=flat&logoColor=8B949E) ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-161b22?style=flat&logoColor=8B949E) ![Generative AI](https://img.shields.io/badge/Generative%20AI-161b22?style=flat&logoColor=8B949E) ![Multimodal AI](https://img.shields.io/badge/Multimodal%20AI-161b22?style=flat&logoColor=8B949E)![NLP](https://img.shields.io/badge/NLP-161b22?style=flat&logoColor=8B949E) ![RAG](https://img.shields.io/badge/RAG-161b22?style=flat&logoColor=8B949E) |
 | **Languages** | ![Python](https://img.shields.io/badge/Python-161b22?style=flat&logo=python&logoColor=8B949E) ![Java](https://img.shields.io/badge/Java-161b22?style=flat&logo=openjdk&logoColor=8B949E) ![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat&logo=javascript&logoColor=8B949E) ![SQL](https://img.shields.io/badge/SQL-161b22?style=flat&logo=postgresql&logoColor=8B949E) |
 | **ML Frameworks** | ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat&logo=pytorch&logoColor=8B949E) ![TensorFlow](https://img.shields.io/badge/TensorFlow-161b22?style=flat&logo=tensorflow&logoColor=8B949E) ![scikit-learn](https://img.shields.io/badge/scikit--learn-161b22?style=flat&logo=scikitlearn&logoColor=8B949E) ![HuggingFace](https://img.shields.io/badge/HuggingFace-161b22?style=flat&logo=huggingface&logoColor=8B949E) ![Pyro](https://img.shields.io/badge/Pyro-161b22?style=flat&logoColor=8B949E) ![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=flat&logo=opencv&logoColor=8B949E) |
 | **Cloud & DevOps** | ![AWS](https://img.shields.io/badge/AWS-161b22?style=flat&logo=amazonaws&logoColor=8B949E) ![GCP](https://img.shields.io/badge/GCP-161b22?style=flat&logo=googlecloud&logoColor=8B949E) ![Kubernetes](https://img.shields.io/badge/Kubernetes-161b22?style=flat&logo=kubernetes&logoColor=8B949E) ![CI/CD](https://img.shields.io/badge/CI/CD-161b22?style=flat&logoColor=8B949E) ![MLOps](https://img.shields.io/badge/MLOps-161b22?style=flat&logoColor=8B949E) ![MLflow](https://img.shields.io/badge/MLflow-161b22?style=flat&logo=mlflow&logoColor=8B949E) ![Railway](https://img.shields.io/badge/Railway-161b22?style=flat&logo=railway&logoColor=8B949E) |
@@ -51,8 +51,8 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=thiernodaoudaly&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E&bg_color=0d1117&include_all_commits=true&count_private=true" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiernodaoudaly&theme=github-dark-blue&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=8B949E" width="49%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=thiernodaoudaly&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=86400" width="49%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiernodaoudaly&theme=github-dark-blue&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&cache_seconds=86400" width="49%" />
 
 </div>
 
