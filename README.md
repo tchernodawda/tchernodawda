@@ -29,7 +29,7 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 <div align="left">
 
-[![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thiernodaouda.vercel.app)
+[![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thierno.vercel.app)
 
 </div>
 
