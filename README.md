@@ -23,7 +23,7 @@
 
 **Hi, I am Tcherno**
 
-> Junior Data & AI Engineer passionate about Artificial Intelligence, mathematics and cloud technologies, with hands-on experience building intelligent and scalable data-driven systems.
+> Computer Engineer passionate about Artificial Intelligence, mathematics and cloud technologies, with hands-on experience building intelligent and scalable data-driven systems.
 > 
 > Interested in RAG systems, AI research, and modern data architectures, and currently seeking opportunities in AI Engineering, Machine Learning, Data Engineering, and research-oriented AI environments.
 
