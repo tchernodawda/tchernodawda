@@ -47,6 +47,80 @@
 | **Big Data** | ![PySpark](https://img.shields.io/badge/PySpark-161b22?style=flat&logo=apachespark&logoColor=8B949E) ![Hadoop](https://img.shields.io/badge/Hadoop-161b22?style=flat&logo=apachehadoop&logoColor=8B949E) ![Kafka](https://img.shields.io/badge/Kafka-161b22?style=flat&logo=apachekafka&logoColor=8B949E) ![Trino](https://img.shields.io/badge/Trino-161b22?style=flat&logoColor=8B949E) ![dbt](https://img.shields.io/badge/dbt-161b22?style=flat&logo=dbt&logoColor=8B949E) ![Airflow](https://img.shields.io/badge/Airflow-161b22?style=flat&logo=apacheairflow&logoColor=8B949E) ![MinIO](https://img.shields.io/badge/MinIO-161b22?style=flat&logo=minio&logoColor=8B949E) ![Ranger](https://img.shields.io/badge/Ranger-161b22?style=flat&logo=apache&logoColor=8B949E) ![Iceberg](https://img.shields.io/badge/Iceberg-161b22?style=flat&logo=apache&logoColor=8B949E) |
 | **Databases** | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat&logo=postgresql&logoColor=8B949E) ![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat&logo=mongodb&logoColor=8B949E) ![Neo4j](https://img.shields.io/badge/Neo4j-161b22?style=flat&logo=neo4j&logoColor=8B949E) ![ChromaDB](https://img.shields.io/badge/ChromaDB-161b22?style=flat&logoColor=8B949E) ![OpenSearch](https://img.shields.io/badge/OpenSearch-161b22?style=flat&logoColor=8B949E) ![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat&logo=sqlite&logoColor=8B949E) |
 
+## Skills
+
+<table>
+  <tr>
+    <td valign="top" width="160px"><sub>Artificial Intelligence</sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Machine%20Learning-161b22?style=flat-square&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/Deep%20Learning-161b22?style=flat-square&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/Computer%20Vision-161b22?style=flat-square&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/Generative%20AI-161b22?style=flat-square&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/Multimodal%20AI-161b22?style=flat-square&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/NLP-161b22?style=flat-square&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/RAG-161b22?style=flat-square&logoColor=8B949E" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><sub>Languages</sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=8B949E" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><sub>ML Frameworks</sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/scikit--learn-161b22?style=flat-square&logo=scikitlearn&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/HuggingFace-161b22?style=flat-square&logo=huggingface&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/Pyro-161b22?style=flat-square&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=8B949E" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><sub>Cloud & DevOps</sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonaws&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/GCP-161b22?style=flat-square&logo=googlecloud&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/Kubernetes-161b22?style=flat-square&logo=kubernetes&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/CI%2FCD-161b22?style=flat-square&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/MLOps-161b22?style=flat-square&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/MLflow-161b22?style=flat-square&logo=mlflow&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/Railway-161b22?style=flat-square&logo=railway&logoColor=8B949E" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><sub>Big Data</sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/PySpark-161b22?style=flat-square&logo=apachespark&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/Hadoop-161b22?style=flat-square&logo=apachehadoop&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/Kafka-161b22?style=flat-square&logo=apachekafka&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/Trino-161b22?style=flat-square&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/dbt-161b22?style=flat-square&logo=dbt&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/Airflow-161b22?style=flat-square&logo=apacheairflow&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/MinIO-161b22?style=flat-square&logo=minio&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/Ranger-161b22?style=flat-square&logo=apache&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/Iceberg-161b22?style=flat-square&logo=apache&logoColor=8B949E" />
+    </td>
+  </tr>
+  <tr>
+    <td valign="top"><sub>Databases</sub></td>
+    <td>
+      <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/Neo4j-161b22?style=flat-square&logo=neo4j&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/ChromaDB-161b22?style=flat-square&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/OpenSearch-161b22?style=flat-square&logoColor=8B949E" />
+      <img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=8B949E" />
+    </td>
+  </tr>
+</table>
+
 <!-- stats -->
 **Stats**
 
