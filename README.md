@@ -1,10 +1,8 @@
 <!-- header -->
 
-<!-- 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
--->
 
 <div align="center">
 
@@ -24,12 +22,14 @@
 
 **Hi, I am Tcherno**
 
-Final year Computer Science Engineering student at Ecole Polytechnique de Thiès (EPT), Senegal.
-Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deployments. I am currently seeking opportunities as an AI Engineer, Machine Learning Engineer, Cloud Data Engineer, or in research-oriented AI environments.
+> Junior Data & AI Engineer passionate about Artificial Intelligence, Machine Learning, mathematics, data engineering, and cloud technologies, with hands-on experience building intelligent and scalable data-driven systems.
+>
+> Interested in RAG systems, AI research, and modern data architectures, and currently seeking opportunities in AI Engineering, Machine Learning, Data Engineering, and research-oriented AI environments.
 
-<div align="left">
 
-[![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thierno.vercel.app)
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thchernodawda.vercel.app)
 
 </div>
 
@@ -78,8 +78,10 @@ Interested in AI/ML, RAG systems, Big Data pipelines, and cloud-native deploymen
 
 <!-- ![Profile Views](https://count.getloli.com/get/@thiernodaoudaly.github.readme) 
 
+-->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
 </p> 
--->
+
 
