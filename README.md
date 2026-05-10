@@ -19,12 +19,7 @@
 
 <!-- bio -->
 
-<img align="right" src="https://github-readme-stats-tchernodawda.vercel.app/api/top-langs/?username=thiernodaoudaly&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117&cache_seconds=86400" width="38%" />
-<div align="right" width="38%">
 
-[![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thchernodawda.vercel.app)
-
-</div>
 
 **Hi, I am Tcherno**
 
@@ -32,6 +27,12 @@
 > 
 > Interested in RAG systems, AI research, and modern data architectures, and currently seeking opportunities in AI Engineering, Machine Learning, Data Engineering, and research-oriented AI environments.
 
+<img align="right" src="https://github-readme-stats-tchernodawda.vercel.app/api/top-langs/?username=thiernodaoudaly&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117&cache_seconds=86400" width="38%" />
+<div align="right" width="38%">
+
+[![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thchernodawda.vercel.app)
+
+</div>
 
 <div align="center">
 
