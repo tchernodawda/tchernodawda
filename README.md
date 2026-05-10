@@ -26,7 +26,7 @@
 <!-- skills -->
 **Skills**
 
-<table>
+<table align="center">
   <tr>
     <td valign="top" width="160px">Artificial Intelligence</td>
     <td>
