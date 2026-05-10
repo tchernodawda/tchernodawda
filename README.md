@@ -1,8 +1,8 @@
-<!-- header -->
+<!-- header 
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
-</p>
+</p> -->
 
 <!--
 <div align="center">
@@ -20,15 +20,11 @@
 <!-- bio -->
 
 <img align="right" src="https://github-readme-stats-tchernodawda.vercel.app/api/top-langs/?username=thiernodaoudaly&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117&cache_seconds=86400" width="38%" />
-<p align="right">
-
-[![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thchernodawda.vercel.app)
-
-</p>
 
 **Hi, I am Tcherno**
 
 > Junior Data & AI Engineer passionate about Artificial Intelligence, mathematics and cloud technologies, with hands-on experience building intelligent and scalable data-driven systems.
+> 
 > Interested in RAG systems, AI research, and modern data architectures, and currently seeking opportunities in AI Engineering, Machine Learning, Data Engineering, and research-oriented AI environments.
 
 
@@ -144,8 +140,6 @@
 <!-- Views 
 **Profile views**
 
--->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p>
+</p> -->
