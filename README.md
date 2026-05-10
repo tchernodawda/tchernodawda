@@ -1,19 +1,34 @@
-<!-- header
+<!-- header -->
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
+<!--
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile+!;Always+learning+new+things+!)](https://git.io/typing-svg)
+
+</div> -->
+
+<!-- 
+<div align="center">
+  <img src="./assets/images/header.png" width="100%" />
+</div>
 -->
 
 <!-- bio -->
 
 <img align="right" src="https://github-readme-stats-tchernodawda.vercel.app/api/top-langs/?username=thiernodaoudaly&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117&cache_seconds=86400" width="38%" />
+<p align="right">
+
+[![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://thchernodawda.vercel.app)
+
+</p>
 
 **Hi, I am Tcherno**
 
 > Junior Data & AI Engineer passionate about Artificial Intelligence, mathematics and cloud technologies, with hands-on experience building intelligent and scalable data-driven systems.
->
 > Interested in RAG systems, AI research, and modern data architectures, and currently seeking opportunities in AI Engineering, Machine Learning, Data Engineering, and research-oriented AI environments.
 
 
@@ -27,7 +42,7 @@
 <!-- skills -->
 **Skills**
 
-<table align="center">
+<table>
   <tr>
     <td valign="top" width="160px">Artificial Intelligence</td>
     <td>
@@ -109,7 +124,28 @@
 
 </div>
 
-<!-- 
+<!-- snake 
+
+  <div align="center">
+
+  ![snake light](https://raw.githubusercontent.com/thiernodaoudaly/thiernodaoudaly/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![snake dark](https://raw.githubusercontent.com/thiernodaoudaly/thiernodaoudaly/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+
+  </div>
+
+-->
+
+<!-- 3D profile 
+**Contributions**
+
+![3D Profile](./profile-3d-contrib/profile-night-green.svg)
+-->
+
+<!-- Views 
+**Profile views**
+
+-->
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p> -->
+</p>
