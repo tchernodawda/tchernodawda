@@ -4,27 +4,13 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header"/>
 </p>
 
-<!--
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&color=8B949E&center=true&vCenter=true&width=700&lines=Welcome+to+my+profile+!;Always+learning+new+things+!)](https://git.io/typing-svg)
-
-</div> -->
-
-<!-- 
-<div align="center">
-  <img src="./assets/images/header.png" width="100%" />
-</div>
--->
-
 <!-- bio -->
 
-<img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=thiernodaoudaly&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117&cache_seconds=86400" width="38%" />
+<img align="right" src="https://github-readme-stats-tchernodawda.vercel.app/api/top-langs/?username=thiernodaoudaly&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117&cache_seconds=86400" width="38%" />
 
 **Hi, I am Tcherno**
 
-> Junior Data & AI Engineer passionate about Artificial Intelligence, Machine Learning, mathematics, data engineering, and cloud technologies, with hands-on experience building intelligent and scalable data-driven systems.
->
+> Junior Data & AI Engineer passionate about Artificial Intelligence, mathematics and cloud technologies, with hands-on experience building intelligent and scalable data-driven systems.
 > Interested in RAG systems, AI research, and modern data architectures, and currently seeking opportunities in AI Engineering, Machine Learning, Data Engineering, and research-oriented AI environments.
 
 
@@ -40,7 +26,7 @@
 
 <table>
   <tr>
-    <td valign="top" width="160px"><sub>Artificial Intelligence</sub></td>
+    <td valign="top" width="160px">Artificial Intelligence</td>
     <td>
       <img src="https://img.shields.io/badge/Machine%20Learning-161b22?style=flat-square&logoColor=8B949E" />
       <img src="https://img.shields.io/badge/Deep%20Learning-161b22?style=flat-square&logoColor=8B949E" />
@@ -52,7 +38,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top"><sub>Languages</sub></td>
+    <td valign="top">Languages</td>
     <td>
       <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E" />
       <img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=8B949E" />
@@ -61,7 +47,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top"><sub>ML Frameworks</sub></td>
+    <td valign="top">ML Frameworks</td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=8B949E" />
       <img src="https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow&logoColor=8B949E" />
@@ -72,7 +58,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top"><sub>Cloud & DevOps</sub></td>
+    <td valign="top">Cloud & DevOps</td>
     <td>
       <img src="https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonaws&logoColor=8B949E" />
       <img src="https://img.shields.io/badge/GCP-161b22?style=flat-square&logo=googlecloud&logoColor=8B949E" />
@@ -84,7 +70,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top"><sub>Big Data</sub></td>
+    <td valign="top">Big Data</td>
     <td>
       <img src="https://img.shields.io/badge/PySpark-161b22?style=flat-square&logo=apachespark&logoColor=8B949E" />
       <img src="https://img.shields.io/badge/Hadoop-161b22?style=flat-square&logo=apachehadoop&logoColor=8B949E" />
@@ -98,7 +84,7 @@
     </td>
   </tr>
   <tr>
-    <td valign="top"><sub>Databases</sub></td>
+    <td valign="top">Databases</td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=8B949E" />
       <img src="https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=8B949E" />
@@ -115,37 +101,11 @@
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=thiernodaoudaly&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=86400" width="49%" />
+  <img src="https://github-readme-stats-tchernodawda.vercel.app/api?username=thiernodaoudaly&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=86400" width="49%" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=thiernodaoudaly&theme=github-dark-blue&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&cache_seconds=86400" width="49%" />
 
 </div>
 
-<!-- snake 
-
-  <div align="center">
-
-  ![snake light](https://raw.githubusercontent.com/thiernodaoudaly/thiernodaoudaly/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  ![snake dark](https://raw.githubusercontent.com/thiernodaoudaly/thiernodaoudaly/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
-
-  </div>
-
--->
-
-<!-- 3D profile 
-**Contributions**
-
-![3D Profile](./profile-3d-contrib/profile-night-green.svg)
-<!-- <img src="./profile-3d-contrib/profile-night-green.svg" height="49%" /> -->
-
-<!-- Views 
-**Profile views**
-
-<!-- ![Profile Views](https://count.getloli.com/get/@thiernodaoudaly.github.readme) 
-
--->
-
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer"/>
-</p> 
-
-
+</p>
