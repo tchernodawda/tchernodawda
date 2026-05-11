@@ -17,8 +17,9 @@
 </div>
 -->
 
-<!-- bio -->
-<img align="right" src="https://github-readme-stats-tchernodawda.vercel.app/api/top-langs/?username=thiernodaoudaly&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117&cache_seconds=86400" width="38%"/>
+<!-- bio 
+<img align="right" src="https://github-readme-stats-tchernodawda.vercel.app/api/top-langs/?username=thiernodaoudaly&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117&cache_seconds=86400" width="38%"/> 
+-->
 
 **Hi, I am Tcherno**
 
