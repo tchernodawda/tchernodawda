@@ -41,7 +41,7 @@
 **Skills**
 
   <table align="center">
-    <tr>
+   <!-- <tr>
       <td valign="top" width="160px">Artificial Intelligence</td>
       <td>
         <img src="https://img.shields.io/badge/Machine%20Learning-161b22?style=flat-square&logoColor=8B949E" />
@@ -52,7 +52,7 @@
         <img src="https://img.shields.io/badge/NLP-161b22?style=flat-square&logoColor=8B949E" />
         <img src="https://img.shields.io/badge/RAG-161b22?style=flat-square&logoColor=8B949E" />
       </td>
-    </tr>
+    </tr> -->
     <tr>
       <td valign="top">Languages</td>
       <td>
