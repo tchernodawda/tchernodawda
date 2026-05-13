@@ -23,8 +23,8 @@
 
 **Hi, I am Tcherno**
 
-> Computer Engineer passionate about Artificial Intelligence and cloud technologies, with hands-on experience building intelligent and scalable data-driven systems. Interested in RAG systems and modern data architectures, and currently seeking opportunities in AI Engineering, Machine Learning, Data Engineering, and research-oriented AI environments.
-> [![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=flat-square&logo=astro&logoColor=8B949E)](https://tchernodawda.vercel.app)
+> Computer Engineer passionate about Artificial Intelligence, mathematics and cloud technologies, with hands-on experience building intelligent and scalable data-driven systems. Interested in RAG systems, AI research, and modern data architectures, currently seeking opportunities in AI Engineering, Machine Learning, and Data Engineering.
+> 
 > [![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://tchernodawda.vercel.app)
 
 
@@ -42,7 +42,7 @@
 
   <table align="center">
     <tr>
-      <td valign="top" width="160px">Artificial Intelligence</td>
+      <td valign="top" width="160px"><sub>Artificial Intelligence</sub></td>
       <td>
         <img src="https://img.shields.io/badge/Machine%20Learning-161b22?style=flat-square&logoColor=8B949E" />
         <img src="https://img.shields.io/badge/Deep%20Learning-161b22?style=flat-square&logoColor=8B949E" />
