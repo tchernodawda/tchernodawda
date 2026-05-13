@@ -42,7 +42,7 @@
 
   <table align="center">
     <tr>
-      <td valign="top" width="160px"><sup>Artificial Intelligence</sup></td>
+      <td width="160px">Artificial Intelligence</td>
       <td>
         <img src="https://img.shields.io/badge/Machine%20Learning-161b22?style=flat-square&logoColor=8B949E" />
         <img src="https://img.shields.io/badge/Deep%20Learning-161b22?style=flat-square&logoColor=8B949E" />
