@@ -24,7 +24,7 @@
 **Hi, I am Tcherno**
 
 > Computer Engineer passionate about Artificial Intelligence and cloud technologies, with hands-on experience building intelligent and scalable data-driven systems. Interested in RAG systems and modern data architectures, and currently seeking opportunities in AI Engineering, Machine Learning, Data Engineering, and research-oriented AI environments.
->
+> [![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=flat-square&logo=astro&logoColor=8B949E)](https://tchernodawda.vercel.app)
 > [![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://tchernodawda.vercel.app)
 
 
