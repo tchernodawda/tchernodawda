@@ -55,6 +55,9 @@
     </tr> -->
     <tr>
       <td valign="top" color="#2596be">Languages</td>
+      <td valign="top" width="160px">
+        <img src="https://img.shields.io/badge/Languages-161b22?style=flat-square&logoColor=8B949E" />
+      </td>
       <td>
         <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E" />
         <img src="https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=8B949E" />
