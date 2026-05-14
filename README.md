@@ -56,7 +56,7 @@
   </tr> -->
   <tr>
     <td valign="top" width="160px">
-      <img src="https://img.shields.io/badge/Languages-8B949E?style=flat-square&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/Languages-161b22?style=flat-square&logoColor=ffffff" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E" />
