@@ -67,7 +67,7 @@
   </tr>
   <tr>
     <td valign="top" width="160px">
-      <img src="https://img.shields.io/badge/ML%20Frameworks-8B949E?style=flat-square&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/ML%20Frameworks-161b22?style=flat-square&logoColor=ffffff" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=8B949E" />
@@ -80,7 +80,7 @@
   </tr>
   <tr>
     <td valign="top" width="160px">
-      <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-8B949E?style=flat-square&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/Cloud%20%26%20DevOps-161b22?style=flat-square&logoColor=ffffff" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonaws&logoColor=8B949E" />
@@ -94,7 +94,7 @@
   </tr>
   <tr>
     <td valign="top" width="160px">
-      <img src="https://img.shields.io/badge/Big%20Data-8B949E?style=flat-square&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/Big%20Data-161b22?style=flat-square&logoColor=ffffff" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/PySpark-161b22?style=flat-square&logo=apachespark&logoColor=8B949E" />
@@ -110,7 +110,7 @@
   </tr>
   <tr>
     <td valign="top" width="160px">
-      <img src="https://img.shields.io/badge/Databases-8B949E?style=flat-square&logoColor=ffffff" />
+      <img src="https://img.shields.io/badge/Databases-161b22?style=flat-square&logoColor=ffffff" />
     </td>
     <td>
       <img src="https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=8B949E" />
