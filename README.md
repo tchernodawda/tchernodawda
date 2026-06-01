@@ -37,8 +37,8 @@
 -->
 
 
-<!-- skills -->
-**Skills**
+<!-- skills 
+**Skills** 
 <table align="center">
   <!-- <tr>
     <td valign="top" width="160px">
@@ -123,8 +123,8 @@
   </tr>
 </table> -->
   
-<!-- stats -->
-**Stats**
+<!-- stats 
+**Stats** -->
 
 <div align="center">
 
