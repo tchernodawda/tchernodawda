@@ -2,7 +2,7 @@ name: Generate 3D Profile
 
 on:
   schedule:
-    - cron: "0 0 */2 * *" # Runs every 2 days at midnight  
+    - cron: "0 0 */7 * *" # Runs every 7 days at midnight  
   workflow_dispatch:
   push:
     branches:
@@ -20,7 +20,7 @@ jobs:
         uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-          USERNAME: thiernodaoudaly
+          USERNAME: tchernodawda
 
       - name: Commit and push
         run: |

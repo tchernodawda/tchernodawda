@@ -18,7 +18,7 @@
 -->
 
 <!-- bio 
-<img align="right" src="https://github-readme-stats-tchernodawda.vercel.app/api/top-langs/?username=thiernodaoudaly&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117&cache_seconds=86400" width="38%"/> 
+<img align="right" src="https://github-readme-stats-tchernodawda.vercel.app/api/top-langs/?username=tchernodawda&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117&cache_seconds=86400" width="38%"/> 
 -->
 
 **Hi, I am Tcherno**
@@ -137,8 +137,8 @@
 
   <div align="center">
 
-  ![snake light](https://raw.githubusercontent.com/thiernodaoudaly/thiernodaoudaly/output/github-contribution-grid-snake.svg#gh-light-mode-only)
-  ![snake dark](https://raw.githubusercontent.com/thiernodaoudaly/thiernodaoudaly/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
+  ![snake light](https://raw.githubusercontent.com/tchernodawda/tchernodawda/output/github-contribution-grid-snake.svg#gh-light-mode-only)
+  ![snake dark](https://raw.githubusercontent.com/tchernodawda/tchernodawda/output/github-contribution-grid-snake-dark.svg#gh-dark-mode-only)
 
   </div>
 
