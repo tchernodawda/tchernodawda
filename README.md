@@ -53,7 +53,7 @@
       <img src="https://img.shields.io/badge/NLP-161b22?style=flat-square&logoColor=8B949E" />
       <img src="https://img.shields.io/badge/RAG-161b22?style=flat-square&logoColor=8B949E" />
     </td>
-  </tr> -->
+  </tr> 
   <tr>
     <td valign="top" width="160px">
       <img src="https://img.shields.io/badge/Languages-161b22?style=flat-square&logoColor=ffffff" />
@@ -121,7 +121,7 @@
       <img src="https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=8B949E" />
     </td>
   </tr>
-</table>
+</table> -->
   
 <!-- stats -->
 **Stats**
