@@ -21,6 +21,8 @@
 <img align="right" src="https://github-readme-stats-tchernodawda.vercel.app/api/top-langs/?username=tchernodawda&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117&cache_seconds=86400" width="38%"/> 
 -->
 
+ <img alight="right" src="https://github-readme-stats-tchernodawda.vercel.app/api?username=tchernodawda&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=86400&rank_icon=github" width="40%" />
+
 **Hi, I am Tcherno**
 
 > Computer Engineer passionate about Artificial Intelligence, mathematics and cloud technologies, with hands-on experience building intelligent and scalable data-driven systems. Interested in RAG systems, AI research, and modern data architectures, currently seeking opportunities in AI Engineering, Machine Learning, and Data Engineering.
