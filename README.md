@@ -171,9 +171,9 @@
 
 **Connect with Me**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=8B949E)](https://linkedin.com/in/tchernodawda)
-[![Portfolio](https://img.shields.io/badge/Portfolio-161b22?style=flat-square&logo=astro&logoColor=8B949E)](https://tchernodawda.vercel.app)
-[![Mail](https://img.shields.io/badge/Mail-161b22?style=flat-square&logo=gmail&logoColor=8B949E)](mailto:tchernodawda@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-161b22?style=for-the-badge&logo=linkedin&logoColor=8B949E)](https://linkedin.com/in/tchernodawda)
+[![Portfolio](https://img.shields.io/badge/-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://tchernodawda.vercel.app)
+[![Mail](https://img.shields.io/badge/-161b22?style=for-the-badge&logo=gmail&logoColor=8B949E)](mailto:tchernodawda@gmail.com)
 
 
 <!-- snake 
@@ -185,6 +185,9 @@
   [![Twitter](https://img.shields.io/badge/Twitter-161b22?style=flat-square&logo=twitter&logoColor=8B949E)](https://twitter.com/tchernodawda)
   [![Instagram](https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=8B949E)](https://instagram.com/tchernodawda)
   [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=8B949E)](https://github.com/tchernodawda)
+  [![Twitter](https://img.shields.io/badge/-161b22?style=for-the-badge&logo=twitter&logoColor=8B949E)](https://twitter.com/tchernodawda)
+  [![Instagram](https://img.shields.io/badge/-161b22?style=for-the-badge&logo=instagram&logoColor=8B949E)](https://instagram.com/tchernodawda)
+  [![GitHub](https://img.shields.io/badge/-161b22?style=for-the-badge&logo=github&logoColor=8B949E)](https://github.com/tchernodawda)
 
   </div>
 
