@@ -134,16 +134,14 @@
 
 </div>
 
-## 🤝 Connect with Me
+**🤝 Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-161b22?style=flat-square&logo=linkedin&logoColor=8B949E)](https://linkedin.com/in/tchernodawda)
 [![Twitter](https://img.shields.io/badge/Twitter-161b22?style=flat-square&logo=twitter&logoColor=8B949E)](https://twitter.com/tchernodawda)
 [![Instagram](https://img.shields.io/badge/Instagram-161b22?style=flat-square&logo=instagram&logoColor=8B949E)](https://instagram.com/tchernodawda)
 [![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=8B949E)](https://github.com/tchernodawda)
 
----
-
-## 🛠️ Technologies & Skills
+**Technologies & Skills**
 
 ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E)
 ![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=8B949E)
@@ -181,6 +179,7 @@
 ![Vercel](https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=8B949E)
 ![Grafana](https://img.shields.io/badge/Grafana-161b22?style=flat-square&logo=grafana&logoColor=8B949E)
 ![Prometheus](https://img.shields.io/badge/Prometheus-161b22?style=flat-square&logo=prometheus&logoColor=8B949E)
+
 <!-- snake 
 
   <div align="center">
