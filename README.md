@@ -167,21 +167,14 @@
   <img src="https://github-readme-stats-tchernodawda.vercel.app/api/top-langs/?username=tchernodawda&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117&cache_seconds=86400" width="39%"/> 
   <img src="https://github-readme-streak-stats-tchernodawda.vercel.app/?user=tchernodawda&theme=github-dark-blue&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&cache_seconds=86400" width="49%"/>
 
-</div> -->
+</div> 
 
 **Connect with Me**
 
 [![LinkedIn](https://img.shields.io/badge/-161b22?style=for-the-badge&logo=linkedin&logoColor=8B949E)](https://linkedin.com/in/tchernodawda)
 [![Portfolio](https://img.shields.io/badge/-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://tchernodawda.vercel.app)
-[![Mail](https://img.shields.io/badge/-161b22?style=for-the-badge&logo=gmail&logoColor=8B949E)](mailto:tchernodawda@gmail.com)
-
-&nbsp;&nbsp;
-<a href="https://linkedin.com/in/tchernodawda"><img src="https://cdn.simpleicons.org/linkedin/8B949E" width="28"/></a>
-&nbsp;&nbsp;
-<a href="https://tchernodawda.vercel.app"><img src="https://cdn.simpleicons.org/astro/8B949E" width="28"/></a>
-&nbsp;&nbsp;
-<a href="mailto:tchernodawda@gmail.com"><img src="https://cdn.simpleicons.org/gmail/8B949E" width="28"/></a>
-
+[![Mail](https://img.shields.io/badge/-161b22?style=for-the-badge&logo=gmail&logoColor=8B949E)](mailto:tchernodawda@gmail.com) 
+-->
 
 <!-- snake 
 
