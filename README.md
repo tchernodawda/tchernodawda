@@ -21,7 +21,7 @@
 <img align="right" src="https://github-readme-stats-tchernodawda.vercel.app/api/top-langs/?username=tchernodawda&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117&cache_seconds=86400" width="38%"/> 
 -->
 
-**Hi, I am Tcherno**
+Hi, I am Tcherno
 
 > Computer Engineer passionate about Artificial Intelligence, mathematics and cloud technologies, with hands-on experience building intelligent and scalable data-driven systems. Interested in RAG systems, AI research, and modern data architectures, currently seeking opportunities in AI Engineering, Machine Learning, and Data Engineering.
 
@@ -33,7 +33,7 @@
 </div> 
 -->
 
-**Technologies & Skills**
+Technos
 
 ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E)
 ![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=8B949E)
@@ -72,7 +72,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-161b22?style=flat-square&logo=grafana&logoColor=8B949E)
 ![Prometheus](https://img.shields.io/badge/Prometheus-161b22?style=flat-square&logo=prometheus&logoColor=8B949E)
 
-Activity & Stats 
+Stats 
 
 <div align="center">
 
