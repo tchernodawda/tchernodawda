@@ -72,9 +72,8 @@ Technos
 ![Grafana](https://img.shields.io/badge/Grafana-161b22?style=flat-square&logo=grafana&logoColor=8B949E)
 ![Prometheus](https://img.shields.io/badge/Prometheus-161b22?style=flat-square&logo=prometheus&logoColor=8B949E)
 
-Stats 
 <div>
-  <img src="https://github-readme-stats-tchernodawda.vercel.app/api?username=tchernodawda&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=86400&rank_icon=github&hide_title=true" width="49%" />
+  <img src="https://github-readme-stats-tchernodawda.vercel.app/api?username=tchernodawda&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=86400&rank_icon=github&hide_title=false" width="49%" />
   <img src="https://github-readme-streak.onrender.com/?user=tchernodawda&theme=github-dark-blue&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&cache_seconds=86400" width="49%"/>
 </div> 
 
