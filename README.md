@@ -72,7 +72,7 @@
 ![Grafana](https://img.shields.io/badge/Grafana-161b22?style=flat-square&logo=grafana&logoColor=8B949E)
 ![Prometheus](https://img.shields.io/badge/Prometheus-161b22?style=flat-square&logo=prometheus&logoColor=8B949E)
 
-**Activity & Stats** 
+Activity & Stats 
 
 <div align="center">
 
