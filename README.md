@@ -71,10 +71,17 @@
 ![Vercel](https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=8B949E)
 ![Grafana](https://img.shields.io/badge/Grafana-161b22?style=flat-square&logo=grafana&logoColor=8B949E)
 ![Prometheus](https://img.shields.io/badge/Prometheus-161b22?style=flat-square&logo=prometheus&logoColor=8B949E)
+![PowerBI](https://img.shields.io/badge/PowerBI-161b22?style=flat-square&logo=powerbi&logoColor=8B949E)
+![Jupyter](https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=8B949E)
+![VS Code](https://img.shields.io/badge/VS%20Code-161b22?style=flat-square&logo=visualstudiocode&logoColor=8B949E)
+![NiFi](https://img.shields.io/badge/NiFi-161b22?style=flat-square&logo=apache&logoColor=8B949E)
+![Flink](https://img.shields.io/badge/Flink-161b22?style=flat-square&logo=apacheflink&logoColor=8B949E)
+![Great Expectations](https://img.shields.io/badge/Great%20Expectations-161b22?style=flat-square&logoColor=8B949E)
+![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor=8B949E)
 
 ---
 
-<img src="https://github-readme-stats-tchernodawda.vercel.app/api?username=tchernodawda&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=86400&rank_icon=github&hide_title=false" width="49%" /><img src="https://github-readme-streak.onrender.com/?user=tchernodawda&theme=github-dark-blue&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&cache_seconds=86400" width="49%"/>
+<img src="https://github-readme-stats-tchernodawda.vercel.app/api?username=tchernodawda&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=86400&rank_icon=github&hide_title=true" width="49%" /><img src="https://github-readme-streak.onrender.com/?user=tchernodawda&theme=github-dark-blue&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&cache_seconds=86400" width="49%"/>
 
 
 <!-- skills 
