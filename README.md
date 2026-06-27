@@ -33,7 +33,7 @@
 </div> 
 -->
 
-<h4>Technos and Skills</h4>
+---
 
 ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E)
 ![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=8B949E)
