@@ -21,7 +21,7 @@
 <img align="right" src="https://github-readme-stats-tchernodawda.vercel.app/api/top-langs/?username=tchernodawda&layout=compact&theme=github_dark&hide_border=true&title_color=8B949E&text_color=8B949E&bg_color=0d1117&cache_seconds=86400" width="38%"/> 
 -->
 
-<h4>Hi, i'm Tcherno</h4>
+Hi, i'm Tcherno
 
 > Computer Engineer passionate about Artificial Intelligence, mathematics and cloud technologies, with hands-on experience building intelligent and scalable data-driven systems. Interested in RAG systems, AI research, and modern data architectures, currently seeking opportunities in AI Engineering, Machine Learning, and Data Engineering.
 
@@ -33,7 +33,6 @@
 </div> 
 -->
 
----
 
 ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E)
 ![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=8B949E)
@@ -41,7 +40,7 @@
 ![SQL](https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=8B949E)
 ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=8B949E)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow&logoColor=8B949E)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-161b22?style=flat-square&logo=scikitlearn&logoColor=8B949E)
+![Scikit-learn](https://img.shields.io/badge/scikit--learn-161b22?style=flat-square&logo=scikitlearn&logoColor=8B949E)
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-161b22?style=flat-square&logo=huggingface&logoColor=8B949E)
 ![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=8B949E)
 ![AWS](https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonwebservices&logoColor=8B949E)
