@@ -17,9 +17,9 @@
 </div>
 -->
 
-Hi, I'm Tcherno
+Hi! I'm Tcherno [tʃɛʁnɔ]
 
-> Computer Science Engineer focused on Artificial Intelligence and Data engineering, with a strong interest in AI research, machine learning, and intelligent systems. Hands-on experience designing and building AI-driven applications, including RAG systems, generative AI solutions, and scalable data architectures. Passionate about exploring emerging AI techniques and translating research ideas into practical, reliable, and scalable systems.
+> Computer Science Engineer focused on Artificial Intelligence and Data engineering, with a strong interest in AI research, machine learning, and intelligent systems. Hands-on experience designing and building AI-driven applications, including RAG systems, generative AI solutions, and scalable data architectures.
 
 <!--
 <div align="center">
@@ -29,7 +29,7 @@ Hi, I'm Tcherno
 </div> 
 -->
 
-Technical Skills 
+<!-- Technical Skills 
 
 ![Programming](https://img.shields.io/badge/Programming-161b22?style=flat-square&logoColor=8B949E)
 ![Mathematics](https://img.shields.io/badge/Mathematics-161b22?style=flat-square&logoColor=8B949E)
@@ -38,9 +38,9 @@ Technical Skills
 ![Machine Learning](https://img.shields.io/badge/Machine%20Learning-161b22?style=flat-square&logoColor=8B949E)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-161b22?style=flat-square&logoColor=8B949E)
 ![Web Development](https://img.shields.io/badge/Web%20Development-161b22?style=flat-square&logoColor=8B949E)
+ -->
 
-
-Technologies & Tools I use 
+Technos & Tools I use 
 
 ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E)
 ![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=8B949E)
@@ -50,7 +50,6 @@ Technologies & Tools I use
 ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=8B949E)
 ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=8B949E)
 ![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=8B949E)
-![SQL](https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=8B949E)
 ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=8B949E)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow&logoColor=8B949E)
 ![Scikit-learn](https://img.shields.io/badge/scikit--learn-161b22?style=flat-square&logo=scikitlearn&logoColor=8B949E)
@@ -69,10 +68,11 @@ Technologies & Tools I use
 ![MinIO](https://img.shields.io/badge/MinIO-161b22?style=flat-square&logo=minio&logoColor=8B949E)
 ![Trino](https://img.shields.io/badge/Trino-161b22?style=flat-square&logoColor=8B949E)
 ![Iceberg](https://img.shields.io/badge/Iceberg-161b22?style=flat-square&logo=apache&logoColor=8B949E)
+![SQL](https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=8B949E)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=8B949E)
+![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=8B949E)
 ![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=8B949E)
 ![Neo4j](https://img.shields.io/badge/Neo4j-161b22?style=flat-square&logo=neo4j&logoColor=8B949E)
-![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=8B949E)
 ![ChromaDB](https://img.shields.io/badge/ChromaDB-161b22?style=flat-square&logoColor=8B949E)
 ![OpenSearch](https://img.shields.io/badge/OpenSearch-161b22?style=flat-square&logoColor=8B949E)
 ![Vercel](https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=8B949E)
