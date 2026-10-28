@@ -40,8 +40,6 @@ Hi! I'm Tcherno [tʃɛʁnɔ]
 ![Web Development](https://img.shields.io/badge/Web%20Development-161b22?style=flat-square&logoColor=8B949E)
  -->
 
-Technos & Tools I use 
-
 ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E)
 ![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=8B949E)
 ![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=8B949E)
