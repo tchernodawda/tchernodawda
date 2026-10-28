@@ -19,7 +19,7 @@
 
 Hi, I'm Tcherno
 
-> Computer Science Engineer focused on Artificial Intelligence, with a strong interest in AI research, machine learning, and intelligent systems. Hands-on experience designing and building AI-driven applications, including RAG systems, generative AI solutions, and scalable data architectures. Passionate about exploring emerging AI techniques and translating research ideas into practical, reliable, and scalable systems.
+> Computer Science Engineer focused on Artificial Intelligence and Data engineering, with a strong interest in AI research, machine learning, and intelligent systems. Hands-on experience designing and building AI-driven applications, including RAG systems, generative AI solutions, and scalable data architectures. Passionate about exploring emerging AI techniques and translating research ideas into practical, reliable, and scalable systems.
 
 <!--
 <div align="center">
@@ -29,7 +29,17 @@ Hi, I'm Tcherno
 </div> 
 -->
 
-Technologies & Tools I use
+Technical Skills 
+![Programming](https://img.shields.io/badge/Programming-161b22?style=flat-square&logoColor=8B949E)
+![Mathematics](https://img.shields.io/badge/Mathematics-161b22?style=flat-square&logoColor=8B949E)
+![Data Science](https://img.shields.io/badge/Data%20Science-161b22?style=flat-square&logoColor=8B949E)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-161b22?style=flat-square&logoColor=8B949E)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-161b22?style=flat-square&logoColor=8B949E)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-161b22?style=flat-square&logoColor=8B949E)
+![Web Development](https://img.shields.io/badge/Web%20Development-161b22?style=flat-square&logoColor=8B949E)
+
+
+Technologies & Tools I use 
 
 ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E)
 ![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=8B949E)
