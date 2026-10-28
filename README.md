@@ -17,7 +17,7 @@
 </div>
 -->
 
-Hi! I'm Tcherno [tʃɛʁnɔ]
+Hi! I'm Tcherno
 
 > Computer Science Engineer focused on Artificial Intelligence and Data engineering, with a strong interest in AI research, machine learning, and intelligent systems. Hands-on experience designing and building AI-driven applications, including RAG systems, generative AI solutions, and scalable data architectures.
 
