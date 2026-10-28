@@ -30,6 +30,7 @@ Hi, I'm Tcherno
 -->
 
 Technical Skills 
+
 ![Programming](https://img.shields.io/badge/Programming-161b22?style=flat-square&logoColor=8B949E)
 ![Mathematics](https://img.shields.io/badge/Mathematics-161b22?style=flat-square&logoColor=8B949E)
 ![Data Science](https://img.shields.io/badge/Data%20Science-161b22?style=flat-square&logoColor=8B949E)
