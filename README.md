@@ -11,15 +11,92 @@
 
 </div> -->
 
-<!-- 
-<div align="center">
-  <img src="./assets/images/header.png" width="100%" />
-</div>
--->
+**hi! i'm tcherno.**
 
-Hi! I'm Tcherno
+i'm a computer science engineer exploring the fascinating world of artificial intelligence. i'm particularly interested in how machines learn, understand, and reason — from language models and multimodal systems to the foundations of machine learning.
 
-> Computer Science Engineer focused on Artificial Intelligence and Data engineering, with a strong interest in AI research, machine learning, and intelligent systems. Hands-on experience designing and building AI-driven applications, including RAG systems, generative AI solutions, and scalable data architectures.
+i enjoy experimenting with ideas, building things, and exploring the intersection of AI research, data, and intelligent systems. i'm especially curious about making AI more capable, efficient, and inclusive of languages and communities that are often overlooked.
+
+outside the world of code and research, i enjoy reading, listening to podcasts, and photography — always finding new things to learn, observe, and get curious about.
+
+if you'd like to know more about what i do, explore [my website](https://tchernodawda.com/).
+
+
+
+<h1 align="center">Towards Intelligent & Scalable Data Systems</h1>
+
+<p align="center">
+  <b>Thierno Daouda LY</b> (Tcherno)<br>
+  <sub>École Polytechnique de Thiès · Sonatel SDDH · Senegal</sub>
+</p>
+
+<p align="center">
+  <a href="https://tchernodawda.vercel.app"><img src="https://cdn.simpleicons.org/astro/8B949E" width="24"/></a>&nbsp;&nbsp;
+  <a href="https://linkedin.com/in/tchernodawda"><img src="https://cdn.simpleicons.org/linkedin/8B949E" width="24"/></a>&nbsp;&nbsp;
+  <a href="https://github.com/tchernodawda"><img src="https://cdn.simpleicons.org/github/8B949E" width="24"/></a>&nbsp;&nbsp;
+  <a href="mailto:lythiernodaouda@ept.sn"><img src="https://cdn.simpleicons.org/gmail/8B949E" width="24"/></a>
+</p>
+
+---
+
+### Abstract
+
+Computer engineer working at the intersection of **artificial intelligence, mathematics and data engineering**. I build intelligent, scalable data-driven systems and I am looking to grow into research on RAG, agentic AI and low-resource NLP.
+
+**Keywords:** `Machine Learning` · `RAG` · `Agentic AI` · `NLP` · `Data Lakehouse` · `Stochastic Modeling`
+
+$$ \mathcal{L}(\theta) = \mathbb{E}_{(x,y)\sim\mathcal{D}}\left[\ell(f_\theta(x), y)\right] \;\longrightarrow\; \min $$
+
+<sub>*Still minimizing.*</sub>
+
+---
+
+### Research interests
+
+1. **Retrieval-Augmented Generation & agentic systems**
+2. **NLP for West African languages**, starting with Wolof
+3. **Lakehouse architectures** for AI-ready data
+
+### Selected works
+
+| Work | Topic |
+|------|-------|
+| [ILAM](https://github.com/tchernodawda) | Intelligent Lakehouse with Agentic Management |
+| [Repo 2](https://github.com/tchernodawda) | À compléter |
+| [Repo 3](https://github.com/tchernodawda) | À compléter |
+
+### Status
+
+| | |
+|---|---|
+| Currently | Writing my PFE report |
+| Reading | *À compléter* |
+| Open to | Research internships · PhD opportunities · AI/Data Engineering |
+
+<details>
+<summary>Toolbox</summary>
+<br>
+
+![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E)
+![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=8B949E)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow&logoColor=8B949E)
+![HuggingFace](https://img.shields.io/badge/HuggingFace-161b22?style=flat-square&logo=huggingface&logoColor=8B949E)
+![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor=8B949E)
+![PySpark](https://img.shields.io/badge/PySpark-161b22?style=flat-square&logo=apachespark&logoColor=8B949E)
+![Kafka](https://img.shields.io/badge/Kafka-161b22?style=flat-square&logo=apachekafka&logoColor=8B949E)
+![Airflow](https://img.shields.io/badge/Airflow-161b22?style=flat-square&logo=apacheairflow&logoColor=8B949E)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=8B949E)
+![Kubernetes](https://img.shields.io/badge/Kubernetes-161b22?style=flat-square&logo=kubernetes&logoColor=8B949E)
+
+</details>
+
+<details>
+<summary>GitHub stats</summary>
+<br>
+
+<img src="https://github-readme-stats-tchernodawda.vercel.app/api?username=tchernodawda&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E&bg_color=0d1117&rank_icon=github&hide_title=true" width="49%" />
+
+</details>
 
 <!--
 <div align="center">
