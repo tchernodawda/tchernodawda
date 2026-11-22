@@ -23,99 +23,29 @@ if you'd like to know more about what i do, explore [my website](https://tcherno
 
 
 
-<h1 align="center">Towards Intelligent & Scalable Data Systems</h1>
+**hi! i'm tcherno.**
 
-<p align="center">
-  <b>Thierno Daouda LY</b> (Tcherno)<br>
-  <sub>École Polytechnique de Thiès · Sonatel SDDH · Senegal</sub>
-</p>
+i'm a computer science engineer fascinated by the ways machines learn, understand, and reason. i enjoy exploring artificial intelligence, experimenting with ideas, and turning them into things that work.
 
-<p align="center">
-  <a href="https://tchernodawda.vercel.app"><img src="https://cdn.simpleicons.org/astro/8B949E" width="24"/></a>&nbsp;&nbsp;
-  <a href="https://linkedin.com/in/tchernodawda"><img src="https://cdn.simpleicons.org/linkedin/8B949E" width="24"/></a>&nbsp;&nbsp;
-  <a href="https://github.com/tchernodawda"><img src="https://cdn.simpleicons.org/github/8B949E" width="24"/></a>&nbsp;&nbsp;
-  <a href="mailto:lythiernodaouda@ept.sn"><img src="https://cdn.simpleicons.org/gmail/8B949E" width="24"/></a>
-</p>
+**currently exploring:** machine learning, natural language processing, multimodal learning, and large language models. i'm particularly curious about semantic understanding, representation learning, and reasoning in AI systems, as well as making AI more inclusive of languages and communities that are often overlooked.
+
+beyond technology, i enjoy reading, listening to podcasts, and photography. i'm always looking for something new to learn, observe, or get curious about.
+
+if you'd like to know more about me and what i do, take a look at [my website](https://tchernodawda.com/).
 
 ---
 
-### Abstract
+### research interests
 
-Computer engineer working at the intersection of **artificial intelligence, mathematics and data engineering**. I build intelligent, scalable data-driven systems and I am looking to grow into research on RAG, agentic AI and low-resource NLP.
-
-**Keywords:** `Machine Learning` · `RAG` · `Agentic AI` · `NLP` · `Data Lakehouse` · `Stochastic Modeling`
-
-$$ \mathcal{L}(\theta) = \mathbb{E}_{(x,y)\sim\mathcal{D}}\left[\ell(f_\theta(x), y)\right] \;\longrightarrow\; \min $$
-
-<sub>*Still minimizing.*</sub>
-
+- **Natural Language Processing:** semantic understanding, natural language inference, and low-resource languages.
+- **Multimodal Learning:** representation learning and the integration of information across modalities.
+- **Large Language Models:** reasoning, knowledge representation, and model capabilities.
+- **Machine Learning:** learning representations, model efficiency, and data-centric approaches.
 ---
 
-### Research interests
-
-1. **Retrieval-Augmented Generation & agentic systems**
-2. **NLP for West African languages**, starting with Wolof
-3. **Lakehouse architectures** for AI-ready data
-
-### Selected works
-
-| Work | Topic |
-|------|-------|
-| [ILAM](https://github.com/tchernodawda) | Intelligent Lakehouse with Agentic Management |
-| [Repo 2](https://github.com/tchernodawda) | À compléter |
-| [Repo 3](https://github.com/tchernodawda) | À compléter |
-
-### Status
-
-| | |
-|---|---|
-| Currently | Writing my PFE report |
-| Reading | *À compléter* |
-| Open to | Research internships · PhD opportunities · AI/Data Engineering |
-
 <details>
-<summary>Toolbox</summary>
+<summary>toolbox</summary>
 <br>
-
-![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E)
-![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=8B949E)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow&logoColor=8B949E)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-161b22?style=flat-square&logo=huggingface&logoColor=8B949E)
-![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor=8B949E)
-![PySpark](https://img.shields.io/badge/PySpark-161b22?style=flat-square&logo=apachespark&logoColor=8B949E)
-![Kafka](https://img.shields.io/badge/Kafka-161b22?style=flat-square&logo=apachekafka&logoColor=8B949E)
-![Airflow](https://img.shields.io/badge/Airflow-161b22?style=flat-square&logo=apacheairflow&logoColor=8B949E)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=8B949E)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-161b22?style=flat-square&logo=kubernetes&logoColor=8B949E)
-
-</details>
-
-<details>
-<summary>GitHub stats</summary>
-<br>
-
-<img src="https://github-readme-stats-tchernodawda.vercel.app/api?username=tchernodawda&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E&bg_color=0d1117&rank_icon=github&hide_title=true" width="49%" />
-
-</details>
-
-<!--
-<div align="center">
-
-[![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://tchernodawda.vercel.app)
-
-</div> 
--->
-
-<!-- Technical Skills 
-
-![Programming](https://img.shields.io/badge/Programming-161b22?style=flat-square&logoColor=8B949E)
-![Mathematics](https://img.shields.io/badge/Mathematics-161b22?style=flat-square&logoColor=8B949E)
-![Data Science](https://img.shields.io/badge/Data%20Science-161b22?style=flat-square&logoColor=8B949E)
-![Data Engineering](https://img.shields.io/badge/Data%20Engineering-161b22?style=flat-square&logoColor=8B949E)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-161b22?style=flat-square&logoColor=8B949E)
-![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-161b22?style=flat-square&logoColor=8B949E)
-![Web Development](https://img.shields.io/badge/Web%20Development-161b22?style=flat-square&logoColor=8B949E)
- -->
 
 ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E)
 ![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=8B949E)
@@ -158,9 +88,34 @@ $$ \mathcal{L}(\theta) = \mathbb{E}_{(x,y)\sim\mathcal{D}}\left[\ell(f_\theta(x)
 ![Flink](https://img.shields.io/badge/Flink-161b22?style=flat-square&logo=apacheflink&logoColor=8B949E)
 ![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor=8B949E)
 
----
+</details>
+
+<details>
+<summary>stats</summary>
+<br>
 
 <img src="https://github-readme-stats-tchernodawda.vercel.app/api?username=tchernodawda&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=86400&rank_icon=github&hide_title=false" width="49%" /><img src="https://github-readme-streak.onrender.com/?user=tchernodawda&theme=github-dark-blue&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&cache_seconds=86400" width="49%"/>
+
+</details>
+
+<!--
+<div align="center">
+
+[![Portfolio](https://img.shields.io/badge/Visit%20my%20portfolio-161b22?style=for-the-badge&logo=astro&logoColor=8B949E)](https://tchernodawda.vercel.app)
+
+</div> 
+-->
+
+<!-- Technical Skills 
+
+![Programming](https://img.shields.io/badge/Programming-161b22?style=flat-square&logoColor=8B949E)
+![Mathematics](https://img.shields.io/badge/Mathematics-161b22?style=flat-square&logoColor=8B949E)
+![Data Science](https://img.shields.io/badge/Data%20Science-161b22?style=flat-square&logoColor=8B949E)
+![Data Engineering](https://img.shields.io/badge/Data%20Engineering-161b22?style=flat-square&logoColor=8B949E)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-161b22?style=flat-square&logoColor=8B949E)
+![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-161b22?style=flat-square&logoColor=8B949E)
+![Web Development](https://img.shields.io/badge/Web%20Development-161b22?style=flat-square&logoColor=8B949E)
+ -->
 
   
 <!-- stats 
