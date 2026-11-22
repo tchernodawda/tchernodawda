@@ -13,36 +13,21 @@
 
 **hi! i'm tcherno.**
 
-i'm a computer science engineer exploring the fascinating world of artificial intelligence. i'm particularly interested in how machines learn, understand, and reason — from language models and multimodal systems to the foundations of machine learning.
+i'm a computer science engineer fascinated by the world of artificial intelligence and the ways technology can help us understand and interact with the world. i enjoy exploring new ideas, experimenting with technologies, and turning concepts into things that work.
 
-i enjoy experimenting with ideas, building things, and exploring the intersection of AI research, data, and intelligent systems. i'm especially curious about making AI more capable, efficient, and inclusive of languages and communities that are often overlooked.
+i'm particularly drawn to the intersection of AI research, software engineering, and data. beyond building intelligent systems, i'm curious about the challenges that make AI more capable, efficient, and accessible to different languages and communities.
 
-outside the world of code and research, i enjoy reading, listening to podcasts, and photography — always finding new things to learn, observe, and get curious about.
-
-if you'd like to know more about what i do, explore [my website](https://tchernodawda.com/).
-
-
-
-**hi! i'm tcherno.**
-
-i'm a computer science engineer fascinated by the ways machines learn, understand, and reason. i enjoy exploring artificial intelligence, experimenting with ideas, and turning them into things that work.
-
-**currently exploring:** machine learning, natural language processing, multimodal learning, and large language models. i'm particularly curious about semantic understanding, representation learning, and reasoning in AI systems, as well as making AI more inclusive of languages and communities that are often overlooked.
-
-beyond technology, i enjoy reading, listening to podcasts, and photography. i'm always looking for something new to learn, observe, or get curious about.
+outside the world of code and research, i enjoy reading, listening to podcasts, and photography. i'm always looking for something new to learn, observe, or get curious about.
 
 if you'd like to know more about me and what i do, take a look at [my website](https://tchernodawda.com/).
 
----
-
-### research interests
+#### research interests
 
 - **Natural Language Processing:** semantic understanding, natural language inference, and low-resource languages.
 - **Multimodal Learning:** representation learning and the integration of information across modalities.
 - **Large Language Models:** reasoning, knowledge representation, and model capabilities.
 - **Machine Learning:** learning representations, model efficiency, and data-centric approaches.
 ---
-
 <details>
 <summary>toolbox</summary>
 <br>
