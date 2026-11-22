@@ -11,13 +11,13 @@
 
 </div> -->
 
-**hi! i'm tcherno.**
+**hi! i'm Thierno /tʃɛʁno/.**
 
 i'm a computer science engineer fascinated by the world of artificial intelligence and the ways technology can help us understand and interact with the world. i enjoy exploring new ideas, experimenting with technologies, and turning concepts into things that work.
 
 i'm particularly drawn to the intersection of AI research, software engineering, and data. beyond building intelligent systems, i'm curious about the challenges that make AI more capable, efficient, and accessible to different languages and communities.
 
-outside the world of code and research, i enjoy reading, listening to podcasts, and photography. i'm always looking for something new to learn, observe, or get curious about.
+<!-- outside the world of code and research, i enjoy reading, listening to podcasts, and photography. i'm always looking for something new to learn, observe, or get curious about. -->
 
 if you'd like to know more about me and what i do, take a look at [my website](https://tchernodawda.com/).
 
