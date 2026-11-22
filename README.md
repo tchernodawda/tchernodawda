@@ -21,13 +21,18 @@ outside the world of code and research, i enjoy reading, listening to podcasts, 
 
 if you'd like to know more about me and what i do, take a look at [my website](https://tchernodawda.com/).
 
-#### research interests
+<details>
+<summary>research interests</summary>
+<br>
 
 - **Natural Language Processing:** semantic understanding, natural language inference, and low-resource languages.
 - **Multimodal Learning:** representation learning and the integration of information across modalities.
 - **Large Language Models:** reasoning, knowledge representation, and model capabilities.
 - **Machine Learning:** learning representations, model efficiency, and data-centric approaches.
----
+
+</details>
+
+
 <details>
 <summary>toolbox</summary>
 <br>
