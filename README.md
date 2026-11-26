@@ -12,9 +12,9 @@
 </div> -->
 
 **Hi! i'm Thierno /tʃɛʁno/.**<br />
-I'm a computer science engineer fascinated by the world of artificial intelligence and the ways technology can help us understand and interact with the world. I enjoy exploring new ideas, experimenting with technologies, and turning concepts into things that work.<br />
-I'm particularly drawn to the intersection of AI research, software engineering, and data. Beyond building intelligent systems, i'm curious about the challenges that make AI more capable, efficient, and accessible to different languages and communities.<br />
-If you'd like to know more about me and what i do, take a look at [my website](https://tchernodawda.com/).
+> I'm a computer science engineer fascinated by the world of artificial intelligence and the ways technology can help us understand and interact with the world. I enjoy exploring new ideas, experimenting with technologies, and turning concepts into things that work.<br />
+>I'm particularly drawn to the intersection of AI research, software engineering, and data. Beyond building intelligent systems, i'm curious about the challenges that make AI more capable, efficient, and accessible to different languages and communities.<br />
+>If you'd like to know more about me and what i do, take a look at [my website](https://tchernodawda.com/).
 
 <details>
 <summary>Interests</summary>
