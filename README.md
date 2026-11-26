@@ -16,6 +16,91 @@ I'm a Computer Science engineer fascinated by the world of Artificial Intelligen
 I'm particularly drawn to the intersection of AI research, software engineering, and data. Beyond building intelligent systems, i'm curious about the challenges that make AI more capable, efficient, and accessible to different languages and communities.<br />
 If you'd like to know more about me and what i do, take a look at [my website](https://tchernodawda.com/).
 
+
+
+<table border="0" cellspacing="0" cellpadding="10">
+  <tr>
+    <td width="33%" valign="top">
+
+      <details>
+        <summary><strong>Interests</strong></summary>
+        <br />
+
+        - **Natural Language Processing:** semantic understanding, natural language inference, and low-resource languages.
+        - **Multimodal Learning:** representation learning and the integration of information across modalities.
+        - **Large Language Models:** reasoning, knowledge representation, and model capabilities.
+        - **Machine Learning:** learning representations, model efficiency, and data-centric approaches.
+
+      </details>
+
+    </td>
+    <td width="33%" valign="top">
+
+      <details>
+        <summary><strong>Toolbox</strong></summary>
+        <br />
+
+        ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E)
+        ![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=8B949E)
+        ![JavaScript](https://img.shields.io/badge/JavaScript-161b22?style=flat-square&logo=javascript&logoColor=8B949E)
+        ![React](https://img.shields.io/badge/React-161b22?style=flat-square&logo=react&logoColor=8B949E)
+        ![TypeScript](https://img.shields.io/badge/TypeScript-161b22?style=flat-square&logo=typescript&logoColor=8B949E)
+        ![FastAPI](https://img.shields.io/badge/FastAPI-161b22?style=flat-square&logo=fastapi&logoColor=8B949E)
+        ![Git](https://img.shields.io/badge/Git-161b22?style=flat-square&logo=git&logoColor=8B949E)
+        ![Linux](https://img.shields.io/badge/Linux-161b22?style=flat-square&logo=linux&logoColor=8B949E)
+        ![PyTorch](https://img.shields.io/badge/PyTorch-161b22?style=flat-square&logo=pytorch&logoColor=8B949E)
+        ![TensorFlow](https://img.shields.io/badge/TensorFlow-161b22?style=flat-square&logo=tensorflow&logoColor=8B949E)
+        ![Scikit-learn](https://img.shields.io/badge/scikit--learn-161b22?style=flat-square&logo=scikitlearn&logoColor=8B949E)
+        ![HuggingFace](https://img.shields.io/badge/HuggingFace-161b22?style=flat-square&logo=huggingface&logoColor=8B949E)
+        ![OpenCV](https://img.shields.io/badge/OpenCV-161b22?style=flat-square&logo=opencv&logoColor=8B949E)
+        ![AWS](https://img.shields.io/badge/AWS-161b22?style=flat-square&logo=amazonwebservices&logoColor=8B949E)
+        ![GCP](https://img.shields.io/badge/GCP-161b22?style=flat-square&logo=googlecloud&logoColor=8B949E)
+        ![Kubernetes](https://img.shields.io/badge/Kubernetes-161b22?style=flat-square&logo=kubernetes&logoColor=8B949E)
+        ![MLflow](https://img.shields.io/badge/MLflow-161b22?style=flat-square&logo=mlflow&logoColor=8B949E)
+        ![Railway](https://img.shields.io/badge/Railway-161b22?style=flat-square&logo=railway&logoColor=8B949E)
+        ![Docker](https://img.shields.io/badge/Docker-161b22?style=flat-square&logo=docker&logoColor=8B949E)
+        ![PySpark](https://img.shields.io/badge/PySpark-161b22?style=flat-square&logo=apachespark&logoColor=8B949E)
+        ![Kafka](https://img.shields.io/badge/Kafka-161b22?style=flat-square&logo=apachekafka&logoColor=8B949E)
+        ![Airflow](https://img.shields.io/badge/Airflow-161b22?style=flat-square&logo=apacheairflow&logoColor=8B949E)
+        ![dbt](https://img.shields.io/badge/dbt-161b22?style=flat-square&logo=dbt&logoColor=8B949E)
+        ![MinIO](https://img.shields.io/badge/MinIO-161b22?style=flat-square&logo=minio&logoColor=8B949E)
+        ![Trino](https://img.shields.io/badge/Trino-161b22?style=flat-square&logoColor=8B949E)
+        ![Iceberg](https://img.shields.io/badge/Iceberg-161b22?style=flat-square&logo=apache&logoColor=8B949E)
+        ![SQL](https://img.shields.io/badge/SQL-161b22?style=flat-square&logo=postgresql&logoColor=8B949E)
+        ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-161b22?style=flat-square&logo=postgresql&logoColor=8B949E)
+        ![SQLite](https://img.shields.io/badge/SQLite-161b22?style=flat-square&logo=sqlite&logoColor=8B949E)
+        ![MongoDB](https://img.shields.io/badge/MongoDB-161b22?style=flat-square&logo=mongodb&logoColor=8B949E)
+        ![Neo4j](https://img.shields.io/badge/Neo4j-161b22?style=flat-square&logo=neo4j&logoColor=8B949E)
+        ![ChromaDB](https://img.shields.io/badge/ChromaDB-161b22?style=flat-square&logoColor=8B949E)
+        ![OpenSearch](https://img.shields.io/badge/OpenSearch-161b22?style=flat-square&logoColor=8B949E)
+        ![Vercel](https://img.shields.io/badge/Vercel-161b22?style=flat-square&logo=vercel&logoColor=8B949E)
+        ![Grafana](https://img.shields.io/badge/Grafana-161b22?style=flat-square&logo=grafana&logoColor=8B949E)
+        ![Prometheus](https://img.shields.io/badge/Prometheus-161b22?style=flat-square&logo=prometheus&logoColor=8B949E)
+        ![Jupyter](https://img.shields.io/badge/Jupyter-161b22?style=flat-square&logo=jupyter&logoColor=8B949E)
+        ![NiFi](https://img.shields.io/badge/NiFi-161b22?style=flat-square&logo=apache&logoColor=8B949E)
+        ![Flink](https://img.shields.io/badge/Flink-161b22?style=flat-square&logo=apacheflink&logoColor=8B949E)
+        ![LangChain](https://img.shields.io/badge/LangChain-161b22?style=flat-square&logo=langchain&logoColor=8B949E)
+
+      </details>
+
+    </td>
+    <td width="34%" valign="top">
+
+      <details>
+        <summary><strong>Stats</strong></summary>
+        <br />
+
+        <img src="https://github-readme-stats-tchernodawda.vercel.app/api?username=tchernodawda&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=86400&rank_icon=github&hide_title=false" width="100%" />
+        <br />
+        <img src="https://github-readme-streak.onrender.com/?user=tchernodawda&theme=github-dark-blue&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&cache_seconds=86400" width="100%" />
+
+      </details>
+
+    </td>
+  </tr>
+</table>
+
+
 <details>
 <summary>Interests</summary>
 
@@ -26,10 +111,8 @@ If you'd like to know more about me and what i do, take a look at [my website](h
 
 </details>
 
-
 <details>
 <summary>Toolbox</summary>
-<br>
 
 ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E)
 ![Java](https://img.shields.io/badge/Java-161b22?style=flat-square&logo=openjdk&logoColor=8B949E)
@@ -76,7 +159,6 @@ If you'd like to know more about me and what i do, take a look at [my website](h
 
 <details>
 <summary>Stats</summary>
-<br>
 
 <img src="https://github-readme-stats-tchernodawda.vercel.app/api?username=tchernodawda&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=86400&rank_icon=github&hide_title=false" width="49%" /><img src="https://github-readme-streak.onrender.com/?user=tchernodawda&theme=github-dark-blue&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&cache_seconds=86400" width="49%"/>
 
