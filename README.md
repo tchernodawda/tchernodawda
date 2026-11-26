@@ -81,7 +81,7 @@ If you'd like to know more about me and what i do, take a look at [my website](h
 
 
 
-<table>
+<table width="100%">
   <tr>
     <td width="33%" valign="top">
       <details>
