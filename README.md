@@ -11,50 +11,13 @@
 
 </div> -->
 
-**Hi! i'm Thierno /tʃɛʁno/.**<br>
-I'm a computer science engineer fascinated by the world of artificial intelligence and the ways technology can help us understand and interact with the world. I enjoy exploring new ideas, experimenting with technologies, and turning concepts into things that work.<br>
-I'm particularly drawn to the intersection of AI research, software engineering, and data. Beyond building intelligent systems, i'm curious about the challenges that make AI more capable, efficient, and accessible to different languages and communities.<br>
+**Hi! i'm Thierno /tʃɛʁno/.**<br />
+I'm a computer science engineer fascinated by the world of artificial intelligence and the ways technology can help us understand and interact with the world. I enjoy exploring new ideas, experimenting with technologies, and turning concepts into things that work.<br />
+I'm particularly drawn to the intersection of AI research, software engineering, and data. Beyond building intelligent systems, i'm curious about the challenges that make AI more capable, efficient, and accessible to different languages and communities.<br />
 If you'd like to know more about me and what i do, take a look at [my website](https://tchernodawda.com/).
 
-<table>
-  <tr>
-    <td width="33%" valign="top">
-      <details>
-        <summary>research interests</summary>
-        <br>
-
-        - **Natural Language Processing:** semantic understanding, NLI, and low-resource languages.
-        - **Multimodal Learning:** representation learning and cross-modal integration.
-        - **Large Language Models:** reasoning and knowledge representation.
-        - **Machine Learning:** model efficiency and data-centric approaches.
-
-      </details>
-    </td>
-
-    <td width="33%" valign="top">
-      <details>
-        <summary>toolbox</summary>
-        <br>
-
-        <!-- Place all your technology badges here -->
-
-      </details>
-    </td>
-
-    <td width="33%" valign="top">
-      <details>
-        <summary>stats</summary>
-        <br>
-
-        <!-- Place your GitHub statistics here -->
-
-      </details>
-    </td>
-  </tr>
-</table>
-
 <details>
-<summary>research interests</summary>
+<summary>Interests</summary>
 <br>
 
 - **Natural Language Processing:** semantic understanding, natural language inference, and low-resource languages.
@@ -66,7 +29,7 @@ If you'd like to know more about me and what i do, take a look at [my website](h
 
 
 <details>
-<summary>toolbox</summary>
+<summary>Toolbox</summary>
 <br>
 
 ![Python](https://img.shields.io/badge/Python-161b22?style=flat-square&logo=python&logoColor=8B949E)
@@ -113,7 +76,7 @@ If you'd like to know more about me and what i do, take a look at [my website](h
 </details>
 
 <details>
-<summary>stats</summary>
+<summary>Stats</summary>
 <br>
 
 <img src="https://github-readme-stats-tchernodawda.vercel.app/api?username=tchernodawda&show_icons=true&theme=github_dark&hide_border=true&title_color=8B949E&icon_color=8B949E&text_color=8B949E&bg_color=0d1117&include_all_commits=true&count_private=true&cache_seconds=86400&rank_icon=github&hide_title=false" width="49%" /><img src="https://github-readme-streak.onrender.com/?user=tchernodawda&theme=github-dark-blue&hide_border=true&ring=8B949E&fire=8B949E&currStreakLabel=8B949E&cache_seconds=86400" width="49%"/>
