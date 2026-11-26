@@ -11,10 +11,47 @@
 
 </div> -->
 
-**Hi! i'm Thierno /tʃɛʁno/.**
-I'm a computer science engineer fascinated by the world of artificial intelligence and the ways technology can help us understand and interact with the world. I enjoy exploring new ideas, experimenting with technologies, and turning concepts into things that work.
-I'm particularly drawn to the intersection of AI research, software engineering, and data. Beyond building intelligent systems, i'm curious about the challenges that make AI more capable, efficient, and accessible to different languages and communities.
+**Hi! i'm Thierno /tʃɛʁno/.**<br>
+I'm a computer science engineer fascinated by the world of artificial intelligence and the ways technology can help us understand and interact with the world. I enjoy exploring new ideas, experimenting with technologies, and turning concepts into things that work.<br>
+I'm particularly drawn to the intersection of AI research, software engineering, and data. Beyond building intelligent systems, i'm curious about the challenges that make AI more capable, efficient, and accessible to different languages and communities.<br>
 If you'd like to know more about me and what i do, take a look at [my website](https://tchernodawda.com/).
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <details>
+        <summary>research interests</summary>
+        <br>
+
+        - **Natural Language Processing:** semantic understanding, NLI, and low-resource languages.
+        - **Multimodal Learning:** representation learning and cross-modal integration.
+        - **Large Language Models:** reasoning and knowledge representation.
+        - **Machine Learning:** model efficiency and data-centric approaches.
+
+      </details>
+    </td>
+
+    <td width="33%" valign="top">
+      <details>
+        <summary>toolbox</summary>
+        <br>
+
+        <!-- Place all your technology badges here -->
+
+      </details>
+    </td>
+
+    <td width="33%" valign="top">
+      <details>
+        <summary>stats</summary>
+        <br>
+
+        <!-- Place your GitHub statistics here -->
+
+      </details>
+    </td>
+  </tr>
+</table>
 
 <details>
 <summary>research interests</summary>
