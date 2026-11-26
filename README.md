@@ -82,7 +82,7 @@ If you'd like to know more about me and what i do, take a look at [my website](h
 
 
 <table width="100%">
-  <tr>
+  <tr width="100%">
     <td width="33%" valign="top">
       <details>
         <summary><strong>Interests</strong></summary>
